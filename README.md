@@ -1,11 +1,27 @@
 ### Hi there 👋
 
 
-I'm Manmeet Singh, a passionate web developer with a creative edge. 🚀 Recent grad in Computer Programming, I excel in front-end development, design, and precise data entry. 💻 My toolkit includes HTML, CSS, JS, and Python, and I love bringing ideas to life with Photoshop and InDesign.
+👋 Hello, I'm Manmeet Singh!
+🚀 About Me
+I'm a recent Computer Programming graduate with a keen interest in web development and a knack for creative design. My journey includes hands-on experience in front-end development, data entry, and design thinking.
 
-🌐 From collaborating on stunning websites to ensuring data accuracy, I thrive in dynamic environments. 🛠️ I'm a problem solver at heart, leveraging tools like Bootstrap and Git to craft seamless solutions. Let's connect and dive into the world of innovative web projects together! 🌟
-
-📫 Reach out at singhmanmeet0409@gmail.com or check out my work at www.manmeetsingh.me. Let's build something amazing! 🚀
+⚡ Skills
+Languages: HTML, CSS, JavaScript, Python
+Frameworks: Bootstrap
+Tools: Photoshop, Git, GitHub
+Problem-Solving: Adept at tackling challenges with a creative approach
+Communication: Strong verbal and written communication skills
+💼 Experience
+Data Entry Specialist: Ensured precision in inspection data and travel reservations.
+Front-end Developer: Collaborated with design teams, bringing concepts to life with HTML and CSS.
+Education: Completed a Computer Programmer program at Lambton College.
+🌐 Connect with Me
+LinkedIn: Manmeet Singh <!-- Add your LinkedIn profile link -->
+Website: www.manmeetsingh.me
+📫 Contact
+Email: singhmanmeet0409@gmail.com
+Phone: 647-612-1878
+Let's connect and explore opportunities together! 🚀
 
 <!--
 **manmeet0409/manmeet0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
