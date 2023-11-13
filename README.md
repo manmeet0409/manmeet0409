@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+I'm Manmeet Singh, a passionate web developer with a creative edge. 🚀 Recent grad in Computer Programming, I excel in front-end development, design, and precise data entry. 💻 My toolkit includes HTML, CSS, JS, and Python, and I love bringing ideas to life with Photoshop and InDesign.
+
+🌐 From collaborating on stunning websites to ensuring data accuracy, I thrive in dynamic environments. 🛠️ I'm a problem solver at heart, leveraging tools like Bootstrap and Git to craft seamless solutions. Let's connect and dive into the world of innovative web projects together! 🌟
+
+📫 Reach out at singhmanmeet0409@gmail.com or check out my work at www.manmeetsingh.me. Let's build something amazing! 🚀
+
 <!--
 **manmeet0409/manmeet0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
