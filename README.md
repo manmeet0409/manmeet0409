@@ -17,10 +17,7 @@ Front-end Developer: Collaborated with design teams, bringing concepts to life w
 Education: Completed a Computer Programmer program at Lambton College.
 🌐 Connect with Me
 LinkedIn: Manmeet Singh <!-- Add your LinkedIn profile link -->
-Website: www.manmeetsingh.me
-📫 Contact
-Email: singhmanmeet0409@gmail.com
-Phone: 647-612-1878
+Email: manmeetsingh4901@gmail.com
 Let's connect and explore opportunities together! 🚀
 
 <!--
